@@ -1,9 +1,5 @@
-hola esta es mi biografia
+hola esta es mi historia 
 
-mi nombre es Diego
-
-soy ingeniero
-
-naci en 1979
+este es el titulo de la historia
 
 saludos.
