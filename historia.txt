@@ -2,4 +2,6 @@ hola esta es mi biografia
 
 mi nombre es Diego
 
+soy ingeniero
+
 saludos.
