@@ -1,5 +1,7 @@
 Hola esta es mi historia
 
-soy Diego tengo 43 años
+soy Diego tengo 43 años.
+
+Soy un ingeniero en electrónica.
 
 chau
