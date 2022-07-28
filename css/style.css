@@ -1,6 +1,21 @@
-body
+
+#container
 {
-    color:coral;
-    text-align: center;
+    font-family: 'Courier New';
+    text-align: left;
+    color: rgb(56, 56, 56);
+    border: black;
+    padding-left: 10%;
+    padding-right: 10%;
+    border-style: solid;
+    background-color: azure;
+}
+
+
+#titulo
+{
+    color:rgb(45, 21, 13);
+    text-align: left;
     font-family: 'Arial';
 }
+
