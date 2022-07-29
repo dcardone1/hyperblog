@@ -5,12 +5,24 @@
     text-align: left;
     color: rgb(56, 56, 56);
     border: black;
-    padding-left: 10%;
-    padding-right: 10%;
-    border-style: solid;
-    background-color: azure;
+    width: 70%;
+    border: 1px solid black;
+    background-color: whitesmoke;
+    padding-left: 10px;
+    margin: auto;
 }
 
+p
+{
+    font-family: 'Courier New';
+    font-size: 14px;
+    font-style: italic;
+}
+
+#container h1
+{
+    font-size: 24px;
+}
 
 #titulo
 {
