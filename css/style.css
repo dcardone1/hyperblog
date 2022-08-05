@@ -1,13 +1,13 @@
 
 #container
 {
-    font-family: 'Courier New';
+    font-family: 'Times New Roman';
     text-align: left;
     color: rgb(56, 56, 56);
     border: black;
     width: 70%;
     border: 1px solid black;
-    background-color: whitesmoke;
+    background-color: royalblue;
     padding-left: 10px;
     margin: auto;
 }
@@ -17,6 +17,7 @@ p
     font-family: 'Courier New';
     font-size: 14px;
     font-style: italic;
+    color: yellowgreen;
 }
 
 #container h1
