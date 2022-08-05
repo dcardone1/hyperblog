@@ -16,7 +16,7 @@ p
 {
     font-family: 'Courier New';
     font-size: 14px;
-    font-style: italic;
+    font-style: initial;
     color: yellowgreen;
 }
 
