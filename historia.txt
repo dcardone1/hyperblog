@@ -1,9 +1,5 @@
-Hola esta es mi vida
+hola esta es mi historia 
 
-soy Diego tengo 43 años.
+este es el titulo de la historia
 
-Soy un ingeniero en electrónica.
-
-y toco la guitarra
-
-chau
+saludos.
