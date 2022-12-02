@@ -44,3 +44,15 @@ p
    font-weight: bold;
 
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    color: rgb(208, 235, 68);
+    font-size: 24px;
+    background-color: brown;
+    height: 30px;
+    align-items: center;
+    font-weight: bold;
+
+}
